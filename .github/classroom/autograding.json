@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "prime",
+      "setup": "",
+      "run": "a.exe",
+      "input": "5",
+      "output": "2 3 5 7 11",
+      "comparison": "included",
+      "timeout": 30,
+      "points": null
+    }
+  ]
+}
